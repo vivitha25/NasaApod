@@ -1,0 +1,4 @@
+lookup table/dimension table-descriptive table and it is fixed like menucard
+fact/data table-gets generated everyday like the sales data
+
+

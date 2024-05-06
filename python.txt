@@ -1,0 +1,30 @@
+compiler programming language-java ,C 
+interpreter programming langauge-python
+
+/.exe-machine code file
+
+python code directy run-run time
+pvm(python virtual machine)-python's runtime compiled to byte code
+interpreter-one by one from left and then converts to machine code
+
+adv and disadv:
+compiler is faster than interpreter
+portability
+platform dependant
+
+print("Welcome")
+print("hello")
+print("hi\nhello\nwelcome\n")
+print("hi\thello\twelcome\t")
+a="Welcome"
+print(a)
+print(type(a))
+print(sorted(a))
+print(min(a))
+print(a.lower())
+print(a.upper())
+print(a.swapcase())
+print(a.isupper())
+print(a.islower())
+print(a.isdigit())
+print(dir(a))
